@@ -6,7 +6,7 @@ This is why we started an Ingglish orthóggraphic refórm.
 
 Let the holders of IELTS, TOEFL, TOEIC, PTE, and [Duolingo Ingglish Test](https://englishtest.duolingo.com) turn to us if 
 
-### Copyright
+### Coppyright
 
-CC0 2024 Guest-615695028, allówing coppying and sharing in all languidges.
+CC0 2024 Guest-615695028, allówing coppying and sharing in all languiges.
 
