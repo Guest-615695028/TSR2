@@ -1,23 +1,23 @@
-# On Solving a Concensus on English Pronunciation
-The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is generally required for a dictionary to pronounce words (also common in overseas [French](/fr/README.md) dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners.
+# On a Concensus on English Pronuntiation
+The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Jennerally required for a dictionary to pronounce words (also common in overseas [French](/fr/README.md) dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners.
 
 ```
 Symbols
 a-z  true letters
-C    any consonant but otherwise specified
-V    any vowel but otherwise specified
+C    any consonant
+V    any vowel
 ^    word beginning
 $    word end
 ,    separator
 ```
 
-## Pronunciation-Spelling Concordance
+## Pronuntiation-Spelling Concordance
 Stressed and only stressed vowel are to be marked on dictionaries, with full IPA givven to and only to irregularly pronounced words.
 
 ![](./epa-1847.png)
 
 ### Vowels
-|[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Gen. Est.|Gen. Am.|Gen. Aus.
+|[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Jenneral Estuary|Jenneral Amerrican|Jenneral Australian
 |-|-|-|-
 |/iː/|/iː/|/iː/|/ɪi/
 |/eː/~/eɪ̯/|/eɪ/|/eɪ/|/æɪ/
@@ -36,7 +36,7 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |/ɪʊ̯/|/juː/|/juː/|/jɪɯ/
 |/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/oɪ/
 
-Genneral Estuary accent is accepted midway between "Receeved Pronunciation" of upper class and Cockney pronounciation of loër class, proposed upon comparability with Genneral Amerrican and Genneral Australian accents for being class-inspecific.
+Jenneral Estuary accent is accepted midway between "Receeved Pronuntiation" of upper class and Cockney pronounciation of loër class, proposed upon comparability with Jenneral Amerrican and Jenneral Australian accents for being class-inspecific.
 
 See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents.
 
@@ -74,15 +74,15 @@ Multigraphic vowels ar allways long.
 |Secondary|`,`|`.`
 
 Notes:
-1. Isaac Pitman's Ingglish Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-General American Pronunciation.
+1. Isaac Pitman's Ingglish Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral American Pronuntiation.
 2. /ɜː/ was reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States.
 3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
 4. Short vowels are reccognized with singgle vowels. Unstressed vowel /æ/, /ɒ/, /ʌ/ allways becum /ə/, same as unstressed final A, /ɛ/ becumes /ɪ/ or /ə/.
 
-The word _**receeved** pronunciation_ implies that the British government has nevver been trying to subjectively define the standard pronunciation of Ingglish in the United Kingdom or Inggland; though it is sumtimes referred as "the King/Queen's Ingglish", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incapability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronunciation" is only practiced in 3% of population in Inggland.
+The word _**receeved** pronuntiation_ implies that the British government has nevver been trying to subjectively define the standard pronuntiation of Ingglish in the United Kingdom or Inggland; though it is sumtimes referred as "the King/Queen's Ingglish", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incapability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronuntiation" is only practiced in 3% of population in Inggland.
 
 ### Consonants
-Consonants generally do not differ in accents.
+Consonants Jennerally do not differ in accents.
 |Pronounciation|Letter(s)
 |-|-
 |/b/|b
@@ -113,11 +113,11 @@ Consonants generally do not differ in accents.
 *The letter X sounds as /ks/ and is treated as dubbled.
 
 ### `ough`
-|Pronunciation|Examples|Note
+|Pronuntiation|Examples|Note
 |-|-|-
 |/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with _-uff_. Clough and sough are also pronounced /aʊ/.
 |/ɒf/|cough, Gough, trough|Rhymes with _-off_. Trough is pronounced /trɔːθ/ (_troth_) by some speakers of American English, and a baker's _trough_ is also pronounced /troʊ/.[2]
-|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with _cow_. _Clough_ and _sough_ are also pronounced /ʌf/. _Plough_ is generally spelled _plow_ in American English.
+|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with _cow_. _Clough_ and _sough_ are also pronounced /ʌf/. _Plough_ is Jennerally spelled _plow_ in American English.
 |/oʊ/|brougham, dough, furlough, though|Rhymes with _no_, _toe_. Brougham is also pronounced /uː/.
 |/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with _caught_, _taught_.
 |/uː/|brougham, slough (see below), through|Rhymes with _true_, _woo_. Brougham is also pronounced /oʊ/.
@@ -147,7 +147,7 @@ However, We propose undoing these changes. Other examples of older spellings tha
 - _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_),
 - _sum_ for **_some_**,
 - **_tung_** for _tongue_, and many others.
-Some of spellings are occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
+Some of spellings are occasionally to be given in dictionaries for pronuntiation, as being far from words of their origins.
 
 ## Rejected mergers
 boor != bore
