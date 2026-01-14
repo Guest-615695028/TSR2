@@ -74,12 +74,12 @@ Multigraphic vowels ar allways long.
 |Secondary|`,`|`.`
 
 Notes:
-1. Isaac Pitman's Ingglish Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral American Pronuntiation.
+1. Isaac Pitman's English Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral American Pronuntiation.
 2. /ɜː/ was reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States.
 3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
 4. Short vowels are reccognized with singgle vowels. Unstressed vowel /æ/, /ɒ/, /ʌ/ allways becum /ə/, same as unstressed final A, /ɛ/ becumes /ɪ/ or /ə/.
 
-The word _**receeved** pronuntiation_ implies that the British government has nevver been trying to subjectively define the standard pronuntiation of Ingglish in the United Kingdom or Inggland; though it is sumtimes referred as "the King/Queen's Ingglish", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incapability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronuntiation" is only practiced in 3% of population in Inggland.
+The word _**receeved** pronuntiation_ implies that the British government has nevver been trying to subjectively define the standard pronuntiation of English in the United Kingdom or England; though it is sumtimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incapability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronuntiation" is only practiced in 3% of population in England.
 
 ### Consonants
 Consonants Jennerally do not differ in accents.
