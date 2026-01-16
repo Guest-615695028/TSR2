@@ -12,7 +12,7 @@ $    word end
 ```
 
 ## Pronuntiation-Spelling Concordance
-Stressed and only stressed vowel are to be marked on dictionaries, with full IPA givven to and only to irregularly pronounced words.
+Stressed vowel ar to be marked on dictionaries, with full IPA givven to and onely to irregularly pronounced words.
 
 ![](./epa-1847.png)
 
@@ -40,34 +40,35 @@ Jenneral Estuary accent is accepted midway between "Receeved Pronuntiation" of u
 
 See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents.
 
-|Letter(s)|Long|Short|R-Hevvy
+|Letter(s)|Short/Lax|Long/Tense|Hevvy-R
 |-|-|-|-
 |`V`|`V$, VCV, VCe`|`VC$, VCC, iCi, Vrr`|`Vr$, VrC`
-|a|/eː/|/æ/|/ɑː/
-|e|/iː/|/ɛ/|/ɜː/
-|i|/aɪ̯/|/ɪ/|/ɜː/
-|o|/oː/|/ɒ/|/ɔː/
-|u|/ɪʊ̯/|/ʌ/|/ɜː/
-|w|/uː/|/ʊ/|/uː/
-|y|/aɪ̯/|/ɪ/|/ɜː/
+|a|/æ/|/eː/|/ɑː/
+|e|/ɛ/|/iː/|/ɜː/
+|i|/ɪ/|/aɪ̯/|/ɜː/
+|o|/ɒ/|/oː/|/ɔː/
+|u|/ʌ/|/ɪʊ̯/|/ɜː/
+|w|/ʊ/|/uː/|/uː/
+|y|/ɪ/|/aɪ̯/|/ɜː/
 
 - R-Hevvy vowels cum before R or RR not followed by vowels.
 - _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _oar_.
 
 Multigraphic vowels ar allways long.
-|IPA|Letter groops
+|IPA|Letters
 |-|-
 |/iː/|ea, ee
-|/eː/~/eɪ̯/|ae, ai, ay<br>-ey, eigh, eig(n)
-|/ɑː/|aa
-|/ɔː/|au, aw, augh(t), ough(t)
-|/oː/~/oʊ̯/|oa, oe
+|/eː/~/eɪ̯/|ai, ay, -ae, ei, ey
+|/ɑː/|aa, ah
+|/ɔː/|au, aw
+|/oː/~/oʊ̯/|oa
 |/uː/|oo
-|/aɪ̯/|ei, ey, ie, igh, igh(n), ui, -uy, -ye
+|/aɪ̯/|ei-, ey-, ui, uy, -ie
 |/aʊ̯/|ou, ow
-|/ɪʊ̯/|eu, ew, ue
+|/ɪʊ̯/|eu, ew, -ue
 |/ɔɪ̯/|oi, oy
 
+Primary stresses ar índicàted with acute accent (´), while secondary stresses ar marked with grave accent (`).
 |Stress, in dictionaries|Long|Short
 |-|-|-
 |Primary|`"`|`'`
@@ -112,7 +113,7 @@ Consonants Jennerally do not differ in accents.
 
 *The letter X sounds as /ks/ and is treated as dubbled.
 
-### `ough`
+### `ough`, a highly variable letter group in English
 |Pronuntiation|Examples|Note
 |-|-|-
 |/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with _-uff_. Clough and sough are also pronounced /aʊ/.
@@ -134,7 +135,7 @@ Some proposed simplified spellings already exist as standard or variant spelling
 - _sithe_ became _scythe_,
 - _iland_ became _island_,
 - _ake_ became _ache_, and so on.
-However, We propose undoing these changes. Other examples of older spellings that are more phonetic include
+However, We propose undoing these changes. Other examples of older spellings beïng more phonetic include:
 - **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
 - **_agenst_** for _against_ (again +‎ -st [excrescent]),
 - **_yeeld_** for _yield_ (_cf._ Old English _ġieldan_),
@@ -149,10 +150,5 @@ However, We propose undoing these changes. Other examples of older spellings tha
 - **_tung_** for _tongue_, and many others.
 Some of spellings are occasionally to be given in dictionaries for pronuntiation, as being far from words of their origins.
 
-## Rejected mergers
-boor != bore
-father != farther
-fore != for
-law != lore
 sought != sort
 which != witch
