@@ -22,15 +22,15 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 2. Consonant twicing without misleading the pronunciation is not allways chandged in TSR2.
 3. The combination _al(l)_ is one of the most difficult areas to attempt codication of the underlying rules of TS. However, the folloïng rules are watertight.
    - For the most part, _al_ and _all_ represent the sounds `{l` as in _algebra_ and _allergy_. However, in TS can they allso represent the sound `O:l`. Usually is this sound forstwd by _au_ or _aw_ as in  _laud_ or _paw_, but the sound can allso be forstwd by _al_ as in _always_ or _all_ as in _small_. Such cases occur:
-   - In a few common words beginning with _al_ givving a meaning of totality is forstwd the sound /O:l/, those are, _albeit_, _almighty_, _almost_, _already_, _alright_, _also_, _although_, _altogether_, _always_. These AL's becumm _all_ in TSR2, i.e. _all-be-it_, _allmighty_, _allmost_, _allreddy_, _allright_, _allso_, _all-though_, _alltogether_, _allways_, with no hyphen needed since _all_ is written before a consonant without ambiguation.
-   - Where _all_ is stressed ending or before a consonant (but W, Y), the sound `O:l` is allso forstwd, e.g.
+   - In a few common words beginning with _al_ givving a meaning of totality is forstwd the sound /O:l/, those are, _albeit_, _almighty_, _almost_, _already_, _alright_, _also_, _although_, _altogether_, _always_. These AL's becumm _all_ in TSR2, i.e. _all-be-it_, _allmighty_, _allmost_, _allreddy_, _allright_, _allso_, _all-dho_, _alltogether_, _allways_, with no hyphen needed since _all_ is written before a consonant without ambiguation.
+   - Where _all_ is stressed ending or before a consonant, the sound `O:l` is allso forstwd, e.g.
       - _ball_, _call_, _fall_, _small_, and others;
       - _balls_, _callst_, _falls_, and others;
    - If the _all_ is folloed by a vowel are they written _awl_, like _cawled_, _fawling_, and _smawler_.
    - See section "Sub-rules" for _-ald-_, _-alk-_ and _-alt-_.
-4. The letter G: usually represents the sound `g` as in _gun_, along with the sound `dZ` before the letters E, I or Y. Exceptions to this rule are often marked in TS by inserting an U as in _guide_ and TSR folloes this practice. Therefore, the word _argue_ is written as _argüe_ with diëresis.
-   - _gg_ allways represents the sound `g` in TSR. It can therefore be used instead of _u_ to preserve the `g` sound against succeeding vowels that would otherwise turn it to `dZ`  (e.g. _lingger_, _longger_). It is particularly relevant for exceptions to the _ange_ sub-group where the sound is short rather than long (e.g. bangger_, hangger_). See D4 below.
-   - In cases where the sound is `dZ` but it is still necessary to keep the preceding vowel short, TSR inserts a _d_ before the _g_ as in _badger_, _lodger_, _fudge_ and others. Where _gu_ represents `gw` it is edspelt - _langwage_.
+4. The letter G: usually represents the sound `g` as in _gun_, along with the sound `dZ` before the letters E, I or Y. Exceptions to this rule are often marked in TS by inserting an U as in _guide_, which TSR 2.0 folloes not.
+   - _gg_ allways represents the sound `g` in TSR. It can therefore be used instead of _u_ to preserve the `g` sound against succeeding vowels that would otherwise turn it to `dZ`  (e.g. _lingger_, _longger_). It is particularly relevant for exceptions to the _ange_ sub-group where the sound is short rather than long (e.g. bangger_, hangger_).
+   - In cases where the sound is `dZ` but it is still necessary to keep the preceding vowel short, TSR inserts a _d_ before the _g_ as in _badger_, _lodger_, _fudge_ and others. Where _gu_ represents `gw` it is edspelt - _langwige_.
 5. The Letter S: It normally represents the sound `s` as in _sound_, but allso `z` as in _please_.
    - Based on TS formulae, S represents `s`:
       - At the beginning of words: _snake_;
@@ -66,8 +66,9 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
    2. Parts of the vebs to be and to have: _are_,_was_,_were_,_have_,_having_
    3. Small numbers: _one(th)_, _once_, _two(th)_;
    4. Interrogatives: _what_, _where_, _who_, _whose_;
-   5. Indefinitives: _any(one/thing)_, _(n)either_, _every_, _none_, _nothing_, _some(one/thing)_,
-   6. Others: _eye_, _with_, _woman_, _women_.
+   5. Indefinitives: _any(one/thing)_, _every_, _none_, _nothing_, _some(one/thing)_,
+   6. Self-demonstratives: _England_, _English_
+   7. Others: _(n)ever_, _very_, _with_, _woman/women_.
    - The formal second-person pronoun "you" may also be represented in TSR by a capital U. 
 2. Common Suffixes: A number of common word endings doo not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
    - Those involving the /S/ sound 
@@ -138,7 +139,7 @@ Accent mark(´), Second accent mark(`): optional accent marks, used if they are 
 _**People** cumm across GitHub every day, but **some persons** would find this repository interesting.
 
 4. Which Amerrican or British words shall be used?
-As there is a larger peeple (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English than British English, but we are to be ballanced between them.
+As there is a larger peeple (or *there are more persons*, as seen beloe) in the United States than the United Kingdom, the Internet prefer American English than British English, but we are to be ballanced between them.
 
 |American|Commonwealth|Ours|Note
 |-|-|-|-
